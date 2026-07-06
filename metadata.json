@@ -1,0 +1,6 @@
+{
+  "name": "GlamBook MUA",
+  "description": "Aplikasi booking makeup artist profesional dengan login multi-role (Admin, Customer, MUA), pencarian real-time, CRUD portofolio foto, dan validasi form dinamis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
